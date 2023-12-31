@@ -1,1 +1,0 @@
-# crowd-funding-contract
